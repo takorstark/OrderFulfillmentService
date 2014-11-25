@@ -1,5 +1,6 @@
 # Order Fulfillment Service
-It is a servive
+ Our service is made for receive orders which come from customer and check the products in stock whether it available and let user go through payment and shipping and also the service will track the order until they are sent to customer and the  customer can check their order status. 
+ This service requires other services to succeed its goal like Product service, Payment service and Shipment service.
 
 ## What is Order Fulfillment ?
 * Order fulfillment is the complete process from point of sales inquiry to delivery of a product to the customer. Sometimes Order Fulfillment is used to simply describe the act of distribution (logistics) or the shipping function, but in the broader sense it refers to the way firms respond to customer orders, and the process they take to move products from those orders, to the customer.
