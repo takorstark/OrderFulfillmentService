@@ -9,7 +9,6 @@
 ## Stakeholder
 * Customer
 * Order Fulfiller
-* Shop Owner
 
 ## Use Stories/Visions
 * Customer
