@@ -48,7 +48,8 @@ Description : Show the specific order and the status of that order.
 ```
 Stakeholder : Customer
 Success scenario : Customer can edit their order.
-Description : Customer can edit their order before submit the order. After the fulfillment, customer will not be able to change their order.
+Description : Customer can edit their order before submit the order. After the fulfillment, 
+customer will not be able to change their order.
 ```
 * UC5: Cancel order (during order)
 ```
