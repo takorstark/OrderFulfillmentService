@@ -41,8 +41,7 @@ It is a servive
 ## Example Request
 
 ## Out of scope
-* User authentication
-  (It should be like ordering KFC/Pizza or at least the authentication should be done before this process.)
+* User authentication (It should be like ordering KFC or at least the authentication should be done before.)
 * User notification
 
 ## Group Member
