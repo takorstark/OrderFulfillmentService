@@ -27,45 +27,53 @@
 
 ## Use Cases
 * UC1: Order Item
+```
 Stakeholder : Customer
 Success scenario : The order is created successfully.
 Description : Customer makes an order which contains product(s) and order it.
-
+```
 * UC2: See all orders
+```
 Stakeholder : Order fulfiller
 Success scenario : The  fulfiller can view all incoming orders.
 Description : Show all incoming orders from all customers and the status of each order to the order fulfiller.
-
+```
 * UC3: See specific order (by id)
+```
 Stakeholder : Order Fulfiller
 Success scenario : The fulfiller can view details of each specific order by order id.
 Description : Show the specific order and the status of that order.
-
+```
 * UC4: Edit order (during order)
+```
 Stakeholder : Customer
 Success scenario : Customer can edit their order.
 Description : Customer can edit their order before submit the order. After the fulfillment, customer will not be able to change their order.
-
+```
 * UC5: Cancel order (during order)
+```
 Stakeholder : Customer
 Success scenario : Customer can cancel their current order.
 Description : Customer can cancel their current order during their order before submitting the order.
-
+```
 * UC6: Fulfill order
+```
 Stakeholder : Order Fulfiller 
 Success scenario : The order was fulfilled(approved) and the products are ready to ship.
 Description : The order fulfiller can fulfill or approve the order after the payment is done.
-
+```
 * UC7: Check order’s status 
+```
 Stakeholder : Customer
 Success scenario : The order status displayed.
 Description : Customer can view the order’s status that it is fulfilled, paid or waiting.
-
+```
 * UC8: Order fulfillment status (for the race conditions) 
+```
 Stakeholder : Order Fulfiller 
 Success scenario : The order fulfillment status displayed.
 Description : Order fulfiller can view order fulfillment status that it is fulfilled or not.
-
+```
 ## API Document
 * [Here](link)
 
