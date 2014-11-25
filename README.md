@@ -16,8 +16,8 @@
 ```
  As a customer, I would like to order my item(s).
  As a customer, I would like to see my order.
- As a customer, I would like to edit my order.
- As a customer, I would like to cancel my order.
+ As a customer, I would like to edit my order during order.
+ As a customer, I would like to cancel my order during order.
 ```
 * Order Fulfiller
 ```
@@ -30,8 +30,8 @@
 * UC1: Order Item
 * UC2: See all orders
 * UC3: See specific order
-* UC4: Edit order
-* UC5: Cancel order
+* UC4: Edit order (during order)
+* UC5: Cancel order (during order)
 * UC6: Fulfill order
 * UC7: Check order’s status 
 * UC8: Order fulfillment status (for the race conditions)
