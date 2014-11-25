@@ -6,12 +6,35 @@ It is a servive
 * In simpler terms, Order Fulfillment is everything that a seller does from the moment an order for a product is received, to the customer having their purchase in their hands. Order Fulfillment also includes the processes involved in receiving products to sell, storing those products, and providing inventory control of those products.
 * [From http://www.fulfillmentwarehouse.biz/what-is-fulfillment.asp](http://www.fulfillmentwarehouse.biz/what-is-fulfillment.asp)
 
+## Stakeholder
+* Customer
+* Order Fulfiller
+* Shop Owner
 
-##Features
+## Use Stories
+* Customer (Authentication Required)
+```
+ I would like to order my item(s).
+ I would like to see my order.
+ I would like to edit my order.
+ I would like to cancel my order.
+```
+* Order Fulfiller (Authentication Required)
+```
+ I would like to see all the orders.
+ I would like to see the order by order id.
+ I would like to fulfill customers’ order(s).
+```
 
 ## Use Cases
-
-## Operations ##
+* UC1: Order Item
+* UC2: See all orders
+* UC3: See specific order
+* UC4: Edit order
+* UC5: Cancel order
+* UC6: Fulfill order
+* UC7: Check order’s status 
+* UC8: Order fulfillment status (for the race conditions)
 
 ## API Definition
 
