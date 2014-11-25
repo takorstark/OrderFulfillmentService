@@ -37,8 +37,6 @@
 
 ## API Definition
 
-## Example Request
-
 ## Out of scope
 * User authentication (It should be like ordering KFC or at least the authentication should be done before.)
 * User notification
