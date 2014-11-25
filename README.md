@@ -23,6 +23,7 @@
  As an order fulfiller, I would like to see all the orders.
  As an order fulfiller, I would like to see the order by order id.
  As an order fulfiller, I would like to fulfill customers’ order(s).
+ As an order fulfiller, I would like to delete an order.
 ```
 
 ## Use Cases
@@ -48,8 +49,7 @@ Description : Show the specific order and the status of that order.
 ```
 Stakeholder : Customer
 Success scenario : Customer can edit their order.
-Description : Customer can edit their order before submit the order. After the fulfillment, 
-customer will not be able to change their order.
+Description : Customer can edit their order before submit the order. After the fulfillment, customer will not be able to change their order.
 ```
 * UC5: Cancel order (during order)
 ```
@@ -75,11 +75,17 @@ Stakeholder : Order Fulfiller
 Success scenario : The order fulfillment status displayed.
 Description : Order fulfiller can view order fulfillment status that it is fulfilled or not.
 ```
+* UC9: Delete Order
+```
+Stakeholder : Order Fulfiller 
+Success scenario : The order is deleted
+Description : Order fulfiller can delete the specific order from the order list. 
+```
 ## API Document
-* [Here](link)
+* [Here](https://docs.google.com/document/d/1L6OOY9A68hwQ-QJjaWAAZAKGnS31ZiXh1P3-_lgny4s)
 
-## Domain Design
-* [Here](link)
+## Design
+* [Domain Design of Order](link)
 
 ## Out of scope
 * Customer authentication (It should be like ordering KFC or at least the authentication should be done before.)
