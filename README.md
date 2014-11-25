@@ -50,6 +50,7 @@ It is a servive
 * Sarathit  Sangtaweep 	 5510546182
 * Natchanon Hongladaromp 5510546034
 
-## Referrence
-https://se.cpe.ku.ac.th/wiki/index.php
+## Referrences
+* https://se.cpe.ku.ac.th/wiki/index.php
+* http://www.fulfillmentwarehouse.biz/what-is-fulfillment.asp
 
