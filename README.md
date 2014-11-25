@@ -86,7 +86,7 @@ Description : Order fulfiller can delete the specific order from the order list.
 * [Online API Document](https://docs.google.com/document/d/1L6OOY9A68hwQ-QJjaWAAZAKGnS31ZiXh1P3-_lgny4s)
 
 ## Design
-* [Domain Design of Order](https://docs.google.com/drawings/d/1lcKgqQiR_A4yD_TW3QE5BHE_GkrkW-KHhvpIsrvY0Dw/edit)
+* [Domain Design of Order](https://docs.google.com/drawings/d/1lcKgqQiR_A4yD_TW3QE5BHE_GkrkW-KHhvpIsrvY0Dw/edit?usp=sharing)
 
 ## Out of scope
 * Customer authentication (It should be like ordering KFC or at least the authentication should be done before.)
