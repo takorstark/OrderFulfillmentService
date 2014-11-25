@@ -1,41 +1,23 @@
 # Order Fulfillment Service
-Edit and access images using a web service
+It is a servive
 
-## What's it for?
-* Mobile App: Smartphones don't have enough memory to quickly process images, and it drains the battery.  Image Editor Service offloads this work to a remote service.
-* Studio: Use only one workstation to process all work.
-* Web App: can easily request different variations of the same image (such as thumbnail) just by changing the image URL. No need for image manipulation in the web app.
+## What is Order Fulfillment ?
+* Order fulfillment is the complete process from point of sales inquiry to delivery of a product to the customer. Sometimes Order Fulfillment is used to simply describe the act of distribution (logistics) or the shipping function, but in the broader sense it refers to the way firms respond to customer orders, and the process they take to move products from those orders, to the customer.
+* In simpler terms, Order Fulfillment is everything that a seller does from the moment an order for a product is received, to the customer having their purchase in their hands. Order Fulfillment also includes the processes involved in receiving products to sell, storing those products, and providing inventory control of those products.
+[From http://www.fulfillmentwarehouse.biz/what-is-fulfillment.asp](http://www.fulfillmentwarehouse.biz/what-is-fulfillment.asp)
+
+
+##Features
 
 ## Use Cases
-* Store image on server.
-* Show image.
-* Edit image of given URL (external links are permitted).
-* Delete image from server.
 
 ## Operations ##
-* Resize
-* Set brightness
-* Set saturation
-* Convert to grayscale
-* Apply distortion effect
+
+## API Definition
 
 ## Example Request
-```
-GET /images/001/100x100?grayscale=true&brightness=-10
-```
 
-Get image in 100 x 100, set it to grayscale and brightness = -10
-
-```
-GET /images/002?gaussian=20&duplicate=true
-```
-Get image with default size, apply gaussian effect and save it as new image
--> return location header instead of an image
-
-## How is it?
-* JAX-RS RESTful web service.
-* Image processing using [OpenCV](http://opencv.org)
-
-## Security Consideration
-* What if user send very large file
-* What if user repeatedly requests  1x1, 1x2, 1x3, ..., 1x10000000 ~ This would really hurts the server.  
+#Group Member
+* Eknarin Thirayothin	5510546239
+* Natcha  Chidchob 		5510546239
+* Sarathit  Sangtaweep 	5510546182
