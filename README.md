@@ -11,19 +11,19 @@ It is a servive
 * Order Fulfiller
 * Shop Owner
 
-## Use Stories
-* Customer (Authentication Required)
+## Use Stories/Visions
+* Customer
 ```
- I would like to order my item(s).
- I would like to see my order.
- I would like to edit my order.
- I would like to cancel my order.
+ As a customer, I would like to order my item(s).
+ As a customer, I would like to see my order.
+ As a customer, I would like to edit my order.
+ As a customer, I would like to cancel my order.
 ```
-* Order Fulfiller (Authentication Required)
+* Order Fulfiller
 ```
- I would like to see all the orders.
- I would like to see the order by order id.
- I would like to fulfill customers’ order(s).
+ As an order fulfiller, I would like to see all the orders.
+ As an order fulfiller, I would like to see the order by order id.
+ As an order fulfiller, I would like to fulfill customers’ order(s).
 ```
 
 ## Use Cases
@@ -40,7 +40,12 @@ It is a servive
 
 ## Example Request
 
-#Group Member
+## Out of scope
+* User authentication (It should be like ordering KFC/Pizza or at least the authentication should be done before this process.)
+* User notification
+
+## Group Member
 * Eknarin Thirayothin	5510546239
 * Natcha  Chidchob 		5510546239
 * Sarathit  Sangtaweep 	5510546182
+* Natchanon Hongladaromp 5510546034
