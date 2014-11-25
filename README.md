@@ -41,11 +41,16 @@ It is a servive
 ## Example Request
 
 ## Out of scope
-* User authentication (It should be like ordering KFC/Pizza or at least the authentication should be done before this process.)
+* User authentication
+  (It should be like ordering KFC/Pizza or at least the authentication should be done before this process.)
 * User notification
 
 ## Group Member
-* Eknarin Thirayothin	5510546239
-* Natcha  Chidchob 		5510546239
-* Sarathit  Sangtaweep 	5510546182
+* Eknarin Thirayothin	   5510546239
+* Natcha  Chidchob 		    5510546239
+* Sarathit  Sangtaweep 	 5510546182
 * Natchanon Hongladaromp 5510546034
+* 
+# Referrence
+https://se.cpe.ku.ac.th/wiki/index.php
+
