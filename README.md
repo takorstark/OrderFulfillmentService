@@ -8,7 +8,6 @@
 [From](http://www.fulfillmentwarehouse.biz/what-is-fulfillment.asp)
 
 ## Stakeholder
-* Customer
 * Order Fulfiller
 
 ## Use Stories/Visions
