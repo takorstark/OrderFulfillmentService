@@ -83,7 +83,7 @@ Success scenario : The order is deleted
 Description : Order fulfiller can delete the specific order from the order list. 
 ```
 ## API Document
-* [Online API Document](https://docs.google.com/document/d/1L6OOY9A68hwQ-QJjaWAAZAKGnS31ZiXh1P3-_lgny4s)
+* [Online API Document](https://docs.google.com/document/d/1L6OOY9A68hwQ-QJjaWAAZAKGnS31ZiXh1P3-_lgny4s/edit?usp=sharing)
 
 ## Design
 * [Domain Design of Order](https://docs.google.com/drawings/d/1lcKgqQiR_A4yD_TW3QE5BHE_GkrkW-KHhvpIsrvY0Dw/edit?usp=sharing)
