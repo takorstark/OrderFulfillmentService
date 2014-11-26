@@ -81,6 +81,8 @@ Description : Order fulfiller can delete the specific order from the order list.
 
 ## Design
 * [Domain Design of Order](https://docs.google.com/drawings/d/1lcKgqQiR_A4yD_TW3QE5BHE_GkrkW-KHhvpIsrvY0Dw/edit?usp=sharing)
+ 
+## Mockup
 
 ## Out of scope
 * Customer authentication (It should be like ordering KFC or at least the authentication should be done before.)
